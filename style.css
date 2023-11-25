@@ -1,0 +1,39 @@
+main {
+    margin-bottom: 20px;
+  }
+
+  .content-header{
+    padding-top:100px ;
+  }
+  .navbar {
+    background: rgb(2, 0, 36);
+    background: linear-gradient(171deg, rgba(2, 0, 36, 1) 17%, rgb(4, 5, 6) 55%, rgb(33, 17, 95) 97%);
+  }
+  .main-header {
+   margin-bottom: 100px;
+    color: white;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(171deg, rgba(2, 0, 36, 1) 17%, rgba(21, 42, 183, 1) 55%, rgba(21, 42, 183, 1) 97%);
+  }
+
+  .text-footer {
+    font-size: 18px;
+  }
+  .main-content {
+    padding-top: 20px;
+  }
+  #card {
+    margin-bottom: 20px;
+  }
+
+  #contact {
+    margin-bottom: 20px;
+    
+  }
+
+  footer {
+    margin-top: 20px;
+    
+  }
+
+  
